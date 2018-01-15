@@ -2,7 +2,7 @@
 
 I write it on my PC typora ,but  the passage may go wrong when I copy the passage to Utopian post editor.So I upload to the Github. If the article layout  make you dazzled please read on the below url.Thanks.
 
-[The more readable version](https://github.com/Cha0s0000/Arduino-tutorial/blob/master/Arduino%20DIY%20%7C%20How%20to%20control%20a%20Arduino%20car%20by%20bluebooth%20%7C%20%E5%A6%82%E4%BD%95%E7%94%A8%E8%93%9D%E7%89%99%E6%8E%A7%E5%88%B6Arduino%E5%B0%8F%E8%BD%A6.md)
+[The more readable version](https://github.com/Cha0s0000/Utopian/blob/master/How%20to%20use%20Python%20to%20analysis%20risk%20data.md)
 
 
 
