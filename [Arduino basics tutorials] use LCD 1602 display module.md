@@ -150,7 +150,15 @@ void loop() {}
 
 ```
 
-![图片.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1516121120/v9nnnhoxvreioudn3fgp.png)
+**receive:**
+
+```
+I2C scanner. Scanning...
+Found address :63 (0x3F)
+Done.
+Found 1 device(s)
+```
+
 
 The address displayed in the serial monitor is ：0x3F
 
